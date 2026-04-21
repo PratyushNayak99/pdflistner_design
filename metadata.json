@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "PDF Listener App",
+  "description": "A sleek PDF to audio converter powered by Google Gemini AI",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }

@@ -242,7 +242,7 @@ function HomeScreen({ onSettings, onNavigate, isDarkMode, files, notifications }
       {/* Greeting (Like Image 1) */}
       <div className="px-6 mb-6">
         <h2 className="text-[40px] font-bold tracking-tight leading-[1] text-gray-400 mb-1">
-          Hi Alex,
+          Hi Pratyush,
         </h2>
         <h2 className={`text-[40px] font-bold tracking-tight leading-[1.02] ${isDarkMode ? 'text-white' : 'text-[#1C1C1E]'} transition-colors`}>
           What are we<br/>listening to today?
@@ -387,8 +387,8 @@ function ActionCard({ title, subtitle, icon, delay, onClick, isDarkMode, centere
 function SettingsScreen({ onBack, onLogout, isDarkMode, onToggleDarkMode }: { onBack: () => void, onLogout: () => void, isDarkMode: boolean, onToggleDarkMode: () => void }) {
   const [notifications, setNotifications] = useState(true);
   const [isEditingProfile, setIsEditingProfile] = useState(false);
-  const [userName, setUserName] = useState('Alex Carter');
-  const [userEmail, setUserEmail] = useState('alex@example.com');
+  const [userName, setUserName] = useState('Pratyush');
+  const [userEmail, setUserEmail] = useState('pratyush@example.com');
 
   return (
     <motion.div

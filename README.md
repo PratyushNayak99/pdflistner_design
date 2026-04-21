@@ -2,19 +2,40 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# PDF Listener App
 
-This contains everything you need to run your app locally.
+A sleek, mobile-first web app that converts PDFs into audio content using Google's Gemini AI. Built with Next.js, React, and Tailwind CSS, this app transforms documents into listenable audio files with a beautiful iOS-inspired interface.
 
-View your app in AI Studio: https://ai.studio/apps/9ab5daa7-fae3-48b5-97de-952325f658be
+## Features
 
-## Run Locally
+- 🎧 **PDF to Audio Conversion** - Upload any PDF and get instant audio narration
+- 📱 **iOS-Inspired Design** - Clean, modern interface with dark mode support
+- 📚 **Audio Library** - Manage and organize your converted files
+- 🔔 **Smart Notifications** - Stay updated on processing status and storage
+- ⚡ **Fast & Responsive** - Built with Next.js 15 and React 19
 
-**Prerequisites:**  Node.js
+## Getting Started
 
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+   ```bash
+   npm install
+   ```
+2. Set the `GEMINI_API_KEY` in `.env.local` to your Gemini API key
 3. Run the app:
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
+
+## Built With
+
+- [Next.js 15](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Motion](https://motion.dev/) - Animations
+- [Lucide React](https://lucide.dev/) - Icons
+- [Google Gemini AI](https://ai.google.dev/) - AI backend
+
+---
+
+**Author:** Pratyush
