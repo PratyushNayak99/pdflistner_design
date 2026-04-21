@@ -31,7 +31,7 @@ A sleek, mobile-first web app that converts PDFs into audio content . Built with
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [Motion](https://motion.dev/) - Animations
 - [Lucide React](https://lucide.dev/) - Icons
-- [Google Gemini AI](https://ai.google.dev/) - AI backend
+
 
 ---
 
