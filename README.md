@@ -1,7 +1,7 @@
 
 # PDF Listener App
 
-A sleek, mobile-first web app that converts PDFs into audio content using Google's Gemini AI. Built with Next.js, React, and Tailwind CSS, this app transforms documents into listenable audio files with a beautiful iOS-inspired interface.
+A sleek, mobile-first web app that converts PDFs into audio content . Built with Next.js, React, and Tailwind CSS, this app transforms documents into listenable audio files with a beautiful iOS-inspired interface.
 
 ## Features
 
